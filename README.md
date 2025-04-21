@@ -49,12 +49,8 @@ Management requires a dashboard to evaluate product performance across different
 
 -What is the impact of discount bands on revenue and profit?
 
-### Data Analysis
--Using SQL, structured datasets were prepared and transferred to Power BI for deeper insights. The pre-defined KPIs were then calculated and analyzed based on the  EDA findings and the KPIs
 ### Results
-
-### Recommmendations
-
-### Limitations
+-USA and Canada have the most revenue in the 6 products where both are leading in 3 products each than the other countries in 2022 - 2023. 
+-...
 
 
